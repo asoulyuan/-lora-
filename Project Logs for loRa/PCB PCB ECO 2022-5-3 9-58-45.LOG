@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=P1 Old Footprint=mircousb New Footprint=mircoUSB2
+Added Room: Name=stm32+loRa

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC3V3 Pin=JP1-10
+Added Pin To Net: NetName=VCC3V3 Pin=JP2-12
+Added Member To Class: ClassName=stm32+loRa Member=Component *1 400M22S
+Added Room: Name=stm32+loRa
